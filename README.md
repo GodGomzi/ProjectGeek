@@ -11,7 +11,7 @@ This project serves as a practical application of my skills in:
 * Component-based architecture
 * Modern front-end development practices
 
-The goal is to evolve this from a client-side React app into a full-stack MERN (MongoDB, Express, React, Node.js) application-> deploy it to cloud-> Make it live.
+The goal is to evolve this from a client-side React app into a full-stack MERN (MongoDB, Express, React, Node.js) application, deploy it to the cloud, and make it live.
 
 ## 🚀 Features
 
@@ -36,16 +36,16 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-Make sure you have Node.js and npm installed on your machine.
+Ensure that Node.js and npm are installed on your machine.
 * `npm install npm@latest -g`
 
 ### Installation
 
 1.  Clone the repo:
-    git clone [https://github.com/GodGomzi/ProjectGeek.git]
+    git clone [https://github.com/GodGomzi/project-geek.git]
     
 2.  Navigate to the project directory:
-    cd ProjectGeek
+    cd project-geek
 
 3.  Install NPM packages:
     npm install
